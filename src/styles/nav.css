@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Courgette&family=Patrick+Hand&family=Poppins:wght@100;300&display=swap');
+
+.navBar{
+    background-color: #4B847D;
+    font-family: 'Courgette';
+}
+
+.form{
+    font-family: 'Poppins',sans-serif;
+    font-size: calc(7px + 2vmin);
+    color:#134a42;
+}
+
+#username,#email,#password,#confirmPassword{
+    border-radius: 55px;
+}
+
+.btn{
+    background-color: #4B847D;
+    border-radius: 55px;
+    border-color: #4B847D;
+}
+
+.alert{
+    font-size: calc(4px + 2vmin);
+}
+
+.img-fluid {
+    width: 10% \9;
+}
